@@ -1,10 +1,13 @@
 # Intro to CSS
 
 If HTML is the skeleton of the web, then CSS is the mascara. CSS is specifically a “language” designed to help a browser interpret how HTML should look and feel. For example, if you want all of your quotes on your blog to have a slightly darker background and a different font, you would use CSS to do that.
+
 Another more complicated example is building page structure. If you want a page that has a banner across the top, then a menu across the page directly under that, and then three columns with menus on either side and your content in the middle, with a nice footer that stretches across the whole page at the bottom, you would need CSS to tell the HTML to look like that. Here’s what it could look like:
+
 ![An Example Page Layout](./example_page_template.png)
 
 CSS operates in a way that is nearly identical to how spell targeting works in Magic: The Gathering, so we’ll use that as a template for understanding what’s happening.
+
 Each “selector” in CSS is a rule which will tell the browser which things on the page should get the styles in that rule. Once the browser determines which elements on the page will be getting those styles, it then takes all of the style details in the rule (things like text color, alignment, and opacity) and applies it to all elements that matched the rule.
 
 ## Selectors
