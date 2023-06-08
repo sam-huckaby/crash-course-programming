@@ -8,3 +8,7 @@ Crash Course Programming was created because a friend wanted to learn how to cod
 This question is what I asked myself as I started writing all this. Why not just point people to the abundant courses out there? Am I trying to get rich or famous?
 I could just publish a course on some paid content platform and then shill it to everyone I can on the internet, but frankly I'm just not that good at any of this and I don't want the cost of entry to be something that keeps you from realizing your dream to learn how to code.
 A new public repo also means that we can build this thing together, and can hear from many different voices, which is something that I love about programming.
+
+## Other Resources For Learning to Program
+- [Mozilla's Web Development Course](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Real World OCaml](https://dev.realworldocaml.org/toc.html) // Yeah, I had to slip this in
