@@ -16,7 +16,7 @@ Let’s start with the element selector. This type of CSS selector targets all H
 
 For example, if you have the CSS rule:
 
-```
+```css
 p {
     color: blue;
 }
@@ -28,7 +28,7 @@ Next, we have the class selector. This type of CSS selector targets HTML element
 
 For example, you could have the following CSS rule:
 
-```
+```css
 .mana-blue {
     color: blue;
 }
@@ -41,7 +41,7 @@ Lastly, there’s the ID selector. This CSS selector targets a specific HTML ele
 
 For example, the following CSS rule:
 
-```
+```css
 #jace {
     color: blue;
 }
@@ -65,7 +65,7 @@ The specificity hierarchy in CSS is as follows:
 
 Here’s an example:
 
-```
+```css
 p {
     color: red;
 }
@@ -93,7 +93,7 @@ Where do you put this stuff, you might be asking. There are actually two answers
 ### Inline in `<head>`
 The easiest way is to simply write them into your HTML document. An example of how you would style all paragraphs to have red text would look like this:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -114,7 +114,7 @@ The easiest way is to simply write them into your HTML document. An example of h
 ### `<link>` Tags
 If you were to write the above style but in a separate file, you could simple take the style definition `p { color: red; }` and put that in a file named something like `styles.css` located next to the HTML file (or wherever) and link it to the website using a `<link>` tag like so:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
