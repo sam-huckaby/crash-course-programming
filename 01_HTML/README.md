@@ -146,7 +146,7 @@ HTML forms the backbone of any website, akin to the sculptor's clay. But relying
 
 - `<link />`: The link tag, among its various uses, is essential for integrating stylesheets into your website. Stylesheets are CSS files that instruct the browser on how to display your tags. The link tag is placed in the `<head>` section of your website and requires two attributes: 'href' and 'rel'. An example would be: `<link href="path/to/stylesheet.css" rel="stylesheet" />`.
 
-- `<script></script>` or `<script src="" />`: The script tag is used to incorporate external files (predominantly JavaScript) into your website. This tag usually resides in the `<head>` section of the website, but it can also be placed at the bottom of the `<body>` section, causing the file to load simultaneously with the website content.
+- `<script></script>`: The script tag is used to incorporate external files (predominantly JavaScript) into your website. This tag usually resides in the `<head>` section of the website, but it can also be placed at the bottom of the `<body>` section, causing the file to load simultaneously with the website content.
 
 It's important to note that items added to the `<head>` are loaded into the browser's memory before the page is displayed to the user, while items in the `<body>` load as the page is displayed. While this loading process is generally fast, larger files may cause a noticeable delay.
 
@@ -162,7 +162,7 @@ Test your understanding of the concepts we've covered in this module by answerin
    - `<form></form>`
    - `<style></style>`
    - `<link />`
-   - `<script />`
+   - `<script></script>`
 
 2. What is the primary difference between `<ol>` and `<ul>`?
    - `<ol>` is much older than `<ul>`
