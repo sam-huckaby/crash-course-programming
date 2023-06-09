@@ -151,3 +151,41 @@ HTML forms the backbone of any website, akin to the sculptor's clay. But relying
 It's important to note that items added to the `<head>` are loaded into the browser's memory before the page is displayed to the user, while items in the `<body>` load as the page is displayed. While this loading process is generally fast, larger files may cause a noticeable delay.
 
 In this course, we'll primarily load files into the `<head>` section as the necessary files are known beforehand, and we won't be dynamically generating anything.
+
+## Course Module Review and Exercises
+
+### Module Review
+
+Test your understanding of the concepts we've covered in this module by answering the following questions:
+
+1. Which tag lets you load CSS “stylesheets” into your website?
+   - `<form></form>`
+   - `<style></style>`
+   - `<link />`
+   - `<script />`
+
+2. What is the primary difference between `<ol>` and `<ul>`?
+   - `<ol>` is much older than `<ul>`
+   - `<ul>` makes ugly links and `<ol>` makes orphan links
+   - `<ul>` is unordered and `<ol>` is ordered
+   - `<ol>` isn’t real but `<ul>` is
+
+3. When is a `<script>` tag in the body loaded?
+   - Never
+   - Before the website is shown to the user
+   - At the time the website is shown to the user
+   - Right as the user closes the website
+
+### Module Exercises
+
+**Exercise 1: Magic Powers**
+In this exercise, we'll add some styling to our HTML page using an external CSS framework.
+
+1. Open the index.html file that you have been working in.
+2. Add a new script tag at the bottom of the `<head>` section with no attributes.
+3. Add an `src` attribute and give it the value “https://cdn.tailwindcss.com”.
+4. Add an attribute to your opening `<body>` tag called “class” and give it the value “bg-blue-600”.
+5. Add a “class” attribute to all of your `<h1>` tags and give all of them the value "text-2xl text-white".
+6. Save your file and reload the website in your browser.
+
+*Note*: Tailwind is a JavaScript library that lets you give CSS styles to your website using only classnames. We will discuss CSS in the next section, but this exercise should give you a taste of what CSS is capable of. Keep in mind that pure CSS is much more powerful and flexible than Tailwind.
