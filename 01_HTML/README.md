@@ -32,7 +32,7 @@ Although there are 145 tags, you'll only need a handful to start building a func
 
 By implementing these tags, you essentially have a functional website that can be hosted and displayed on the internet.
 
-**Part 5: Common Display Tags**
+### Part 5: Common Display Tags
 
 As you get started with HTML, you'll frequently use these display tags:
 
@@ -54,6 +54,79 @@ While there are many more tags, the ones listed above make up about 95% of what 
 
 ![An HTML tag with each part labelled](Anatomy_of_html_tags.png)
 
+## Course Module Review and Exercises
+
+### Module Review
+
+Test your understanding of the concepts we've covered in this module by answering the following questions:
+
+1. Which of the following tags does NOT have an opening tag?
+   - div
+   - button
+   - a
+   - img
+
+2. Which optional attribute can you add to an input tag to change how it is displayed?
+   - kind
+   - type
+   - prop
+   - use
+
+3. Which tag surrounds all of the rest (except the DOCTYPE)?
+   - html
+   - body
+   - head
+   - div
+
+4. What symbols surround HTML tags?
+   - < and >
+   - ( and )
+   - { and }
+   - [ and ]
+
+### Module Exercises
+
+**Exercise 1: Hello World**
+Follow these steps to create your first HTML page:
+
+1. Open a new file in your text editor of choice.
+2. Enter the following lines into the file:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exercise 1</title>
+	</head>
+	<body>
+		<p>Hello World</p>
+	</body>
+</html>
+```
+3. Save the file as “index.html”.
+4. Locate it on your computer and open it with your preferred web browser.
+5. Note that the page’s title is “Exercise 1”.
+6. Modify index.html so that the browser tab says “My MTG Deck”.
+
+**Exercise 2: Deck Display**
+Now, we'll modify our HTML file to display more information about your MTG deck.
+
+1. Open “index.html” from the first exercise.
+2. Remove the “Hello World” and its paragraph tags.
+3. Add a 1st-level heading (`<h1>`) with the text “Deck Description”.
+4. Under (and outside) that h1, add a paragraph with a short MTG deck description.
+5. Below that, add another 1st-level heading (`<h1>`) called “Win-con”.
+6. Add a paragraph under that h1 that describes one or more win conditions for the deck described under the first heading.
+7. Add another 1st-level heading (`<h1>`) with the text “Deck Cards”.
+8. Add a list of 5-10 MTG card names separated with commas (for now, don't add the entire deck).
+9. Save and open the page in a browser to ensure it looks right.
+
+**Exercise 3: The Commander**
+Next, let's add a visual element to your page, featuring the commander of your deck.
+
+1. Above the first heading, add an `<img />` tag.
+2. Find an image online of a commander card for your deck and copy the image’s URL.
+3. Modify your new `<img />` tag to add a “src” attribute and assign it the value of the URL you copied, like so: `<img src=”[your url here]” />`.
+4. *Bonus*: Can you add the name of the Commander in large text under the image?
 
 ## Course Module 2: Advanced HTML Elements and Expanding Beyond HTML
 
