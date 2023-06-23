@@ -7,10 +7,19 @@ This is an incredibly helpful skill to have, because it will help you break down
 to you, and can be conveyed quickly and easily to others. In this lesson, we'll break down a simple pseudocode "syntax" (way of writing) that you can use or adapt as needed.
 
 ### Variables
+```
 [variable name]
+```
 
 ### Conditionals
-IF, THEN, ELSE IF, ELSE
+```
+IF something THEN
+  do something
+ELSE IF another thing THEN
+  do a different something
+ELSE
+  do some default thing
+```
 
 ### Loops
 FOR, WHILE
