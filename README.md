@@ -10,10 +10,11 @@ All you need is a desire to learn and a willingness to keep trying when you don'
 
 ## Cost
 
-This course is completely free. There's no pro plan, there's no locked features, there's no money to be made. If you want to pay for a more polished and refined course, here are several I recommend:
-- Fireship tutorials
-- better.dev
-- I'll add more later
+This course is completely free. There's no pro plan, there's no locked features, there's only limited fanciness. If you have the time and money to pay for a more polished and refined course, here are several I recommend:
+- [Exercism.org](https://exercism.org/)
+- [Fireship.io](https://fireship.io/)
+- [Open Source Society University](https://github.com/ossu/computer-science)
+- [CodeCombat](https://codecombat.com/)
 
 ## Prerequisites
 
