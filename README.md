@@ -1,3 +1,5 @@
+[हिंदी संस्करण](README.hi.md)
+
 # Crash Course Programming
 
 ## Are You Ready?
