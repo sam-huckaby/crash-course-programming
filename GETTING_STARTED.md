@@ -1,4 +1,4 @@
-# Getting Started with Git
+# Getting Started On Your Journey
 
 Welcome to the first part of the crash course programming program! We will be starting off by looking at Git.
 Maybe you've heard of git before, or maybe it sounds like something an angry old southern lady would yell at you if you tried to eat her freshly baked peach cobbler.

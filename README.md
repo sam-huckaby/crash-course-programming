@@ -42,6 +42,8 @@ This course is Open Source. If you see something wrong or something that could b
 
 **Together, we can teach the world to code**
 
+[Begin here](GETTING_STARTED.md)
+
 ## Other Resources For Learning to Program
 - [Mozilla's Web Development Course](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Real World OCaml](https://dev.realworldocaml.org/toc.html) // Yeah, I had to slip this in
