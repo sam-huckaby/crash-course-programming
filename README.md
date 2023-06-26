@@ -1,4 +1,4 @@
-[हिंदी संस्करण](README.hi.md)
+[हिंदी संस्करण](README.hi.md) | [Kiswahili](README.sw.md)
 
 # Crash Course Programming
 
