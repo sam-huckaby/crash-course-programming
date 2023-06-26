@@ -26,6 +26,12 @@ Ili uweze kufaulu katika kozi hii, utahitaji vitu viwili tu:
 
 **Muunganisho wa Mtandao (Wakati mwingine)** - Sehemu kadhaa za kozi hii zinahusiana na video au rasilimali za nje, kwa hivyo kuwa na ufikiaji wa mtandao ni muhimu sana. Kompyuta unayotumia haina haja ya kuwa na muunganisho wa mtandao, lakini utahitaji njia fulani ya kuufikia kwa ma
 
+udhui. Utahitaji kupata repo hii kwenye kompyuta yako ya programu kwa njia moja au nyingine, na kuwa na ufikiaji wa mtandao kwenye kompyuta yako ya programu itakuwa njia rahisi zaidi ya kufanya hivyo.
+
+**Hiyo Ndiyo Yote.**
+
+Huhitaji kitu kingine chochote. Ikiwa una vitu hivyo vitatu, uko tayari kuanza.
+
 ## Matumaini
 
 Kozi hii itapanga mkondo wa jumla kupitia mada ambazo kawaida ungeweza kufundishwa katika chuo kikuu katika programu ya sayansi ya kompyuta. Hata hivyo, kozi hii **HAITHIBITISHWI**. Huwezi kusema una shahada baada ya kukamilisha kozi hii, watu _watakucheka_.
