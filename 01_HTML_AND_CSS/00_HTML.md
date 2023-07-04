@@ -54,6 +54,9 @@ While there are many more tags, the ones listed above make up about 95% of what 
 
 ![An HTML tag with each part labelled](Anatomy_of_html_tags.png)
 
+## Reading
+Salma Alam-Naylor has [a great post](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/) about HTML-only websites that is a fun showcase of what is possible with nothing more than HTML.
+
 ## Course Module Review and Exercises
 
 ### Module Review
