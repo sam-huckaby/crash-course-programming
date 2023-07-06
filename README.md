@@ -50,4 +50,4 @@ If you're ready, [Begin here](GETTING_STARTED.md).
 
 ## Other Resources For Learning to Program
 - [Mozilla's Web Development Course](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-- [Real World OCaml](https://dev.realworldocaml.org/toc.html) // Yeah, I had to slip this in
+- [Real World OCaml](https://dev.realworldocaml.org/toc.html) (Yeah, I had to slip this in)
