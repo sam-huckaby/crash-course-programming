@@ -38,3 +38,6 @@ A **pull/merge request** is suggesting a set of **commit(s)** to another **repos
 
 ### Repository
 A **repository** is a collection of code. You might be more familiar with a folder or directory on your computer. A repository is like a folder on your computer, it stores other files and folders. Now, maybe you're wondering: "Why not just call it a folder then?" and that would be a super good question. It turns out the reason is simple: time travel. You read that right. Git is a folder that allows you to time travel by creating **commits** that you can warp back to. It also creates a "multiverse" of sorts, because that one folder actually exists in alternate dimensions (called **branches**) where the things inside the folder are slightly different.
+
+### Checkout
+"Checking out" allows you to move the current state of your local **repository** to either match a branch or an exact moment in time when a commit was merged in. Checking out is basically time travelling.
